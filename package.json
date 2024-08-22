@@ -1,6 +1,5 @@
 {
 	"name": "testgoroskop",
-	"homepage": "https://Mger-arzi.github.io/testGoroskop",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
@@ -9,7 +8,7 @@
 		"build": "tsc -b && vite build",
 		"lint": "eslint .",
 		"preview": "vite preview",
-		"predeploy": "npm run build",
+		"predeploy": "pnpm run build",
 		"deploy": "gh-pages -d build"
 	},
 	"dependencies": {
