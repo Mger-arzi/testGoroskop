@@ -1,0 +1,4 @@
+{
+	"greeting": "Hello, {name}!",
+	"horoscope": "Today's horoscope for {sign}: {text}"
+}

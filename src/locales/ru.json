@@ -1,0 +1,4 @@
+{
+	"greeting": "Привет, {name}!",
+	"horoscope": "Гороскоп на сегодня для {sign}: {text}"
+}
